@@ -16,7 +16,7 @@ VALUES ("quality control", 150000, 1),
 SELECT * FROM role;
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
-VALUES ("Zeialh", "Reyna", 3, 1),
+VALUES ("Zeialh", "Reyna", 3, null),
 ("Faidy", "Aguilar", 4, 2),
 ("Abby", "Brandenburg", 4, 2),
 ("Morgan", "Davenport", 3, 1),

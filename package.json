@@ -4,24 +4,23 @@
     "description": "employee tracker with mySql",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "npm start"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npm start"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gabrielarec/employee-tracker-pro"
-      
+        "type": "git",
+        "url": "git+https://github.com/gabrielarec/employee-tracker-pro"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/gabrielarec/employee-tracker-pro/issues"
+        "url": "https://github.com/gabrielarec/employee-tracker-pro/issues"
     },
     "homepage": "https://github.com/gabrielarec/employee-tracker-pro#readme",
     "dependencies": {
-      "console.table": "^0.10.0",
-      "dotenv": "^16.0.3",
-      "inquirer": "^8.2.4",
-      "mysql2": "^3.2.3"
+        "console.table": "^0.10.0",
+        "dotenv": "^16.0.3",
+        "inquirer": "^8.2.5",
+        "mysql2": "^3.2.3"
     }
-  }
+}
