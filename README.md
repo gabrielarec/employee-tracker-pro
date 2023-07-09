@@ -19,7 +19,7 @@ You need to install inquirer package to connect MySql databases and perform quer
 ***
 
 ## Usage
-
+This project is used to select or change aan employee database.  
 ***
 
 ## License
@@ -30,10 +30,11 @@ Using MIT license for this project.
 - SQL day 1-3 zoom. 
 - https://www.npmjs.com/package/mysql2 
 
+
 ***
 
 ### Testing
-Please use the folllowing link to see code in action:
+Please use the following link to see code in action: https://drive.google.com/file/d/1dXwzv-4Anxm4_R-mNKGjz8n4mwf9WnXs/view
 ***
 
 ### Questions
@@ -42,5 +43,4 @@ If you have any questions about the project please send me an email at mgabriela
 ***
 
 
-![image](/)
 
